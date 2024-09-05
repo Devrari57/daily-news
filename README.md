@@ -1,4 +1,4 @@
 # daily-news
 This is my first project
 <br>
-Author - Kaushal
+Author - Kaushal Devrari
